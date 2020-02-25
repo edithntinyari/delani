@@ -1,0 +1,103 @@
+.header{
+    background-image: url("../images/backgrounds/h-img.jpg");
+    text-align: center;
+    height: 650pxpx;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    /* background-color: black; */
+    }
+    #logo{
+        justify-content:center ;
+        display: flex;
+        align-items: center;
+        display: flex;
+        
+    }
+    .mouseclick{
+        padding-top: 400px;
+    }
+    .services{
+        background-image: url("../images/backgrounds/s_image.jpg");
+        height:400px;
+        text-align: center;
+        color:white;
+    
+    }
+    
+      .about{
+          font-size: 15px;
+          margin-right: 150px;
+          margin-left: 150px;
+          font-family:sans-serif;
+      }
+      h2{
+          text-align: center;
+    
+      }  
+       
+      #about{
+        text-align: center;
+      } 
+      .services{
+          text-align: center;
+      } 
+      .images{
+          margin-left: 30%;
+      }
+      
+      .footer{
+          margin-left: 40%;
+    
+      }
+    
+      #contacts{
+          margin-left: 40;
+      }
+      #submitForm{
+          margin-left: 30%;
+      }
+      .contacts{
+          background-image: url("../images/backgrounds/c_image.jpg");
+      }
+    
+    
+     #submitForm input, textarea {
+          background: transparent;
+          border: 1px solid white;
+      }
+      #porfolio{
+          margin-right: 40%;
+      }
+    
+      .whatwe{
+          display: flex;
+
+
+      }
+      #hide{
+          display:show;
+          margin-left: 10%;
+      }
+      #show{
+          display: none;
+      }
+      #hidee{
+          display: show; 
+          margin-left:30%;  
+      }
+      #showw{
+          display: none;
+
+      }
+     #hideee{
+         display:show ;
+         margin-left: 35%;
+
+      }
+      #showww{
+          display: none;
+      }
+      #portfolio{
+          margin-left: 45%;
+      }
